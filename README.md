@@ -2,6 +2,8 @@
 
 ## I'm trying to be better at development everyday!
 
-\n★ Like JavaScript and TypeScript 🥰\n★ Trying to be good with Java\n★ Some problems with Linux, but it'll be okay 😅
+ ★ Like JavaScript and TypeScript 🥰
+ ★ Trying to be good with Java
+ ★ Some problems with Linux, but it'll be okay 😅
 
-#### Want to become a software engineer 😇
+# Want to become a software engineer 😇
