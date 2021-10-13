@@ -6,4 +6,4 @@
  ★ Trying to be good with Java
  ★ Some problems with Linux, but it'll be okay 😅
 
- Want to become a software engineer 😇
+ # Want to become a software engineer 😇
