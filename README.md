@@ -13,4 +13,4 @@
 <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sportek&layout=compact&theme=tokyonight"/>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=alexmdz77.alexmdz77&style=flat-square&color=0088cc)
+![](https://visitor-badge.glitch.me/badge?page_id=sportek.sportek&style=flat-square&color=0088cc)
