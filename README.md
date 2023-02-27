@@ -1,3 +1,4 @@
+![image de profil](https://i.imgur.com/UFAkhLN.png)
 ### Hello! Welcome to my GitHub! ✋
 
  * Currently student at PolyMTL 👨‍🎓
