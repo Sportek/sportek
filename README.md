@@ -1,12 +1,8 @@
 ![image de profil](https://i.imgur.com/UFAkhLN.png)
 ### Salut! ✋
 
- * Étudiant à PolyMTL 👨‍🎓
+ * Étudiant de 3ième année à PolyMTL en génie logiciel 👨‍🎓
  * Aime apprendre de nouvelles choses chaque jour! 🌱
-
-## Roadmap
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6629b79d4e8cd00d3895fd54?variant=dark)](https://roadmap.sh)
 
 ## Statistiques 
 
