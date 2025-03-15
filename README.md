@@ -5,5 +5,4 @@
  * Aime apprendre de nouvelles choses chaque jour! 🌱
 
 ## Statistiques 
-
-<img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sportek&layout=compact&theme=tokyonight"/>
+![Sportek's GitHub stats](https://github-readme-stats.vercel.app/api?username=sportek&theme=transparent&show_icons=true)
